@@ -5,7 +5,7 @@ Description: Wild Rydes DevOps Stack with ECS Fargate and CI/CD Pipeline
 Parameters:
   GitHubRepo:
     Type: String
-    Description: GitHub repository (e.g., username/repo)
+    Description: GitHub repository 
   GitHubBranch:
     Type: String
     Default: master
